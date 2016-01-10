@@ -1,0 +1,14 @@
+---
+title: Eddo
+subtitle: 
+layout: default
+modal-id: 2
+date: 2016-01-08
+img: eddo.jpg
+thumbnail: eddo-thumbnail.jpg
+alt: image-alt
+project-date: January 2016
+client: Start Bootstrap
+category: Dishes
+description: Taro vegetable or Arvi in Hindi, originates from Malaysia and India, where it grows wild in wet or dry places. The taro leaves are heart shaped with white roots that are nutty in flavour. It has many healing properties that are useful to get rid of many diseases. 
+---
