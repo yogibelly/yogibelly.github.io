@@ -56,8 +56,8 @@ people:
 #      url: #
 
 
-- name: The Family
-  pic: 5
+#- name: The Family
+#  pic: 5
 #  position: Lead Developer
 #  social:
 #    - title: twitter
