@@ -11,38 +11,61 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Sahir
+- name: Mohan and Sunita
   pic: 1
-  position: Lead Designer
+  position: Head Chefs
   social:
-    - title: twitter
-      url: #
+#    - title: twitter
+#      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/mohan.bhatnagar.127?fref=ts
+#    - title: stack-overflow
+#      url: #
 
-- name: Larry Parker
+- name: Sameer and Marie-Pierre
   pic: 2
-  position: Lead Marketer
+  position: Marketing and Sales
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: github
+      url: https://github.com/sameerbhatnagar
+    - title: home
+      url: http://sameerbhatnagar.github.io/
+#    - title: linkedin
+#      url: #
 
-- name: Diana Petersen
+- name: Chandni
   pic: 3
-  position: Lead Developer
+  position: Designer
   social:
-    - title: twitter
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/chandnibhatnagar
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/chandni.bhatnagar?fref=ts
+#    - title: google-plus
+#      url: #
+
+- name: Sahir
+  pic: 4
+  position: Web Designer
+  social:
+    - title: github
+      url: https://github.com/sahirbhatnagar
+    - title: home
+      url: http://sahirbhatnagar.com/
+#    - title: google-plus
+#      url: #
+
+
+- name: The Family
+  pic: 5
+#  position: Lead Developer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
