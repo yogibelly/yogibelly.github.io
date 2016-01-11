@@ -84,7 +84,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: (514) 867-3473
-  - line: Montr&egrave;al, Qu&egrave;bec
+  - line: Montr&eacute;al, Qu&eacute;bec
 
 # Build settings
 markdown: kramdown
