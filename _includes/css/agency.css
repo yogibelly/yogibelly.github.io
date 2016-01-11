@@ -283,7 +283,7 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: 'Lucida Console', 'Lucida Sans Typewriter', monaco, 'Bitstream Vera Sans Mono', monospace;
+        font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 70px;
     line-height: 70px;
     text-shadow: 1px 1px 0 #000,
@@ -353,10 +353,10 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;
+        font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 80px;
         line-height: 80px;
-        font-style: italic;
+        font-style: normal;
     font-variant: normal;
     font-weight: bold;
 
