@@ -48,14 +48,23 @@ a.active {
 
 h1,
 h2,
-h3,
-h4,
 h5,
 h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
+
+h3 {
+        font-family: 'Matura MT Script Capitals', arial;
+        font-size: 42px;
+}
+
+h4 {
+        font-family: "New Century Schoolbook", Times, serif;
+        font-size: 26px
+}
+
 
 .img-centered {
     margin: 0 auto;
@@ -545,7 +554,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #fff;
 }
 
 .timeline>li .timeline-image h4 {
@@ -912,3 +921,5 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+
