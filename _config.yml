@@ -25,7 +25,7 @@ people:
 
 - name: Sameer and Marie-Pierre
   pic: 2
-  position: Management and Sales
+  position: Management, Sales and Logistics
   social:
     - title: github
       url: https://github.com/sameerbhatnagar
@@ -36,7 +36,7 @@ people:
 
 - name: Chandni
   pic: 3
-  position: Marketing and Social Media
+  position: Finance, Marketing and Social Media
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/chandnibhatnagar
