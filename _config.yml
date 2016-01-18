@@ -72,8 +72,10 @@ people:
 social:
   - title: twitter
     url: http://twitter.com/yogi_belly
-#  - title: facebook
-#    url: http://yogibelly.com
+  - title: facebook
+    url: http://facebook.com/yogibelly
+  - title: instagram
+    url: http://instagram.com/yogi_belly    
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/jekyll
 #  - title: bitbucket 
