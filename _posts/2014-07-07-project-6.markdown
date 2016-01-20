@@ -1,0 +1,14 @@
+---
+title: Mattar
+subtitle: 
+layout: default
+modal-id: 6
+date: 2016-01-09
+img: mattar.jpg
+thumbnail: mattar-thumbnail.jpg
+alt: image-alt
+project-date: January 2016
+client: Start Bootstrap
+category: Dishes
+description: A native of central Asia and Middle East, green peas are believed to have been in existence for almost thousand years. Historians state that it was one of the first food crops to be cultivated by humans, particularly in northwestern India, Pakistan, or adjacent areas of former USSR and Afghanistan. An excellent source of phytonutrients with anti-oxidant properties, green peas help in neutralizing the free radicals in the body, thereby reducing blood vessel damage and accumulation of cholesterol in the artery walls. As a result, the risk of development and progression of atherosclerosis, stroke, heart disease, and arthritis are lowered to great extents.
+---

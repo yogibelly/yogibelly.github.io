@@ -1,0 +1,15 @@
+---
+title: Palak
+subtitle: 
+layout: default
+modal-id: 1
+date: 2016-01-09
+img: palak.jpg
+thumbnail: palak-thumbnail.jpg
+alt: image-alt
+project-date: January 2016
+client: Start Bootstrap
+category: Dishes
+description: Spinach is an excellent source of vitamin K, vitamin A (in the form of carotenoids), manganese, folate, magnesium, iron, copper, vitamin B2, vitamin B6, vitamin E, calcium, potassium, and vitamin C. It is a very good source of dietary fiber, phosphorus, vitamin B1, zinc, protein, and choline.
+
+---

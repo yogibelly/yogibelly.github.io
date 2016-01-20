@@ -1,15 +1,15 @@
 ---
-title: Lotus root
+title: Moong Dal
 subtitle: 
 layout: default
-modal-id: 1
+modal-id: 4
 date: 2016-01-09
-img: Lotus-root.jpg
-thumbnail: Lotus-root-thumbnail.jpg
+img: moong.jpg
+thumbnail: moong-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
 category: Dishes
-description: Crunchy, delicate flavored, lotus root is an edible rhizome (root) of lotus plant.
+description: Packed with protein and low on carbs, moong dal is one of the best vegetarian superfoods. An integral part of the Indian diet, it is a good and filling option and easy to digest. Moong dal are a good source of protein for vegetarians; A 100 gm serving of moong dal can provide you with 24 gm protein.
 
 ---

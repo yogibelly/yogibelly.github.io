@@ -1,14 +1,14 @@
 ---
-title: Black gram
+title: Paneer
 subtitle: 
 layout: default
-modal-id: 3
+modal-id: 2
 date: 2016-01-09
-img: dahl.jpg
-thumbnail: dahl-thumbnail.jpg
+img: paneer.jpg
+thumbnail: paneer-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
 category: Dishes
-description: Black gram originated in India, where it has been in cultivation from ancient times and is one of the most highly prized legumes of India and Pakistan.
+description: Paneer is a good source of protein especially for vegetarians who do not get their intake from meat products. 100 gm of paneer yields about 18 gm of protein
 ---
