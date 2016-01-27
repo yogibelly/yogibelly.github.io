@@ -1,14 +1,14 @@
 ---
-title: Masoor Dal
+title: Hari Moong Dal
 subtitle: 
 layout: default
 modal-id: 3
 date: 2016-01-08
-img: masoor.jpg
-thumbnail: masoor-thumbnail.jpg
+img: greenmoong.jpg
+thumbnail: greenmoong-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
 category: Dishes
-description: Lentils such as masoor and moong are a powerhouse of nutrition. They are a good source of potassium, calcium, zinc, niacin and vitamin K, but are particularly rich in dietary fiber, lean protein, folate and iron. The Centers for Disease Control and Prevention reports that eating plenty of nutrient-dense foods like lentils can lessen your risk of many serious medical problems. 
+description: Green moong dal is a good source of protein and dietary fibre.
 ---
