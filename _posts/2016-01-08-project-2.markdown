@@ -4,7 +4,7 @@ subtitle:
 layout: default
 modal-id: 3
 date: 2016-01-08
-img: eggplant.png
+img: eggplant.jpg
 thumbnail: eggplant-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
