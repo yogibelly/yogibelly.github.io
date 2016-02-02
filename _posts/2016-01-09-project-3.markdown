@@ -1,14 +1,14 @@
 ---
-title: Gobi
+title: Kale Chane
 subtitle: 
 layout: default
 modal-id: 2
 date: 2016-01-09
-img: cauliflower.jpg
-thumbnail: cauliflower-thumbnail.jpg
+img: bengalgram.jpg
+thumbnail: bengalgram-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
 category: Dishes
-description: Cauliflower is a member of the cruciferous family of vegetables. This vegetable contains an impressive array of nutrients, including vitamins, minerals, antioxidants, and other phytochemicals.
+description: 
 ---

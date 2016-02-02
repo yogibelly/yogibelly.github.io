@@ -1,15 +1,15 @@
 ---
-title: Kadu
+title: Opo
 subtitle: 
 layout: default
 modal-id: 1
 date: 2016-01-09
-img: kabocha.jpg
-thumbnail: kabocha-thumbnail.jpg
+img: opo.png
+thumbnail: opo-thumbnail.png
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
 category: Dishes
-description: Kadu (or Kabocha) is an Asian variety of winter squash. This squash is rich in beta carotene, with iron, vitamin C, potassium, and smaller traces of calcium, folic acid.
+description: 
 
 ---
