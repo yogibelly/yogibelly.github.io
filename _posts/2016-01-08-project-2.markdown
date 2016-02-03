@@ -10,9 +10,5 @@ alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
 category: Dishes
-<<<<<<< HEAD
-description: Lentils such as masoor and moong are a good source of potassium, calcium, zinc, niacin and vitamin K, but are particularly rich in dietary fiber, lean protein, folate and iron. <a href="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000726.html">The Centers for Disease Control and Prevention reports</a> that eating plenty of nutrient-dense foods like lentils can lessen your risk of many serious medical problems. 
-=======
 description: 
->>>>>>> 794b54861c305b3517c50d1f07f3fcdcfde312e5
 ---
