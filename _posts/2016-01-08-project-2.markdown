@@ -1,14 +1,14 @@
 ---
-title: Hari Moong Dal
+title: Baingan
 subtitle: 
 layout: default
 modal-id: 3
 date: 2016-01-08
-img: greenmoong.jpg
-thumbnail: greenmoong-thumbnail.jpg
+img: eggplant.jpg
+thumbnail: eggplant-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
 category: Dishes
-description: Green moong dal is a good source of protein and dietary fibre.
+description: 
 ---
