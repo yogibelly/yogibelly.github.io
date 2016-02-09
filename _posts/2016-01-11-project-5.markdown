@@ -1,11 +1,11 @@
 ---
-title: Peppers
+title: Turmeric
 subtitle: 
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2016-01-08
-img: peppers.jpg
-thumbnail: peppers-thumbnail.jpg
+img: turmeric.jpg
+thumbnail: turmeric-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

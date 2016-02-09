@@ -1,11 +1,11 @@
 ---
-title: Peppers
+title: Carrots
 subtitle: 
 layout: default
-modal-id: 3
+modal-id: 5
 date: 2016-01-08
-img: peppers.jpg
-thumbnail: peppers-thumbnail.jpg
+img: carrots.jpg
+thumbnail: carrots-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
