@@ -1,11 +1,11 @@
 ---
-title: Besan
+title: Tamarind
 subtitle: 
 layout: default
 modal-id: 1
 date: 2016-01-09
-img: besan.png
-thumbnail: besan-thumbnail.png
+img: tamaring.jpg
+thumbnail: tamarind-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

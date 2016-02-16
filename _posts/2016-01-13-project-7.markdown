@@ -1,11 +1,11 @@
 ---
-title: Tofu
+title: Mushrooms
 subtitle: 
 layout: default
 modal-id: 6
 date: 2016-01-08
-img: tofu.jpg
-thumbnail: tofu-thumbnail.jpg
+img: mushrooms.jpg
+thumbnail: mushrooms-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

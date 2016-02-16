@@ -1,11 +1,11 @@
 ---
-title: Carrots
+title: Cashews
 subtitle: 
 layout: default
 modal-id: 5
 date: 2016-01-08
-img: carrots.jpg
-thumbnail: carrots-thumbnail.jpg
+img: cashews.jpg
+thumbnail: cashews-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

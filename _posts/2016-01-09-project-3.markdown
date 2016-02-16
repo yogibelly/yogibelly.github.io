@@ -1,11 +1,11 @@
 ---
-title: Fenugreek
+title: Palak
 subtitle: 
 layout: default
 modal-id: 2
 date: 2016-01-09
-img: fenugreek.png
-thumbnail: fenugreek-thumbnail.png
+img: palak.jpg
+thumbnail: palak-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
