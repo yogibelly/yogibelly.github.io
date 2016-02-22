@@ -1,11 +1,11 @@
 ---
-title: Paneer
+title: Okra
 subtitle: 
 layout: default
 modal-id: 3
 date: 2016-01-08
-img: paneer.jpg
-thumbnail: paneer-thumbnail.jpg
+img: okra.jpg
+thumbnail: okra-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

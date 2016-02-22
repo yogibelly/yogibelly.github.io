@@ -1,11 +1,11 @@
 ---
-title: Chole
+title: Sweet Potato
 subtitle: 
 layout: default
 modal-id: 4
 date: 2016-01-08
-img: chickpeas.jpg
-thumbnail: chickpeas-thumbnail.jpg
+img: sweetpotato.jpg
+thumbnail: sweetpotato-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

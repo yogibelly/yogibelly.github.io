@@ -1,11 +1,11 @@
 ---
-title: Cashews
+title: Cashews and Raisins
 subtitle: 
 layout: default
 modal-id: 5
 date: 2016-01-08
-img: cashews.jpg
-thumbnail: cashews-thumbnail.jpg
+img: raisins.jpg
+thumbnail: raisins-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

@@ -1,11 +1,11 @@
 ---
-title: Palaak
+title: Masoor
 subtitle: 
 layout: default
 modal-id: 2
 date: 2016-01-09
-img: palak.jpg
-thumbnail: palak-thumbnail.jpg
+img: masoor.jpg
+thumbnail: masoor-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

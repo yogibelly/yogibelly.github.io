@@ -56,7 +56,8 @@ h6 {
 }
 
 h3 {
-        font-family: Cambria,Georgia,serif; 
+        font-family: 'Harrington';
+        src: url('http://www.fontsaddict.com/fontface/harrington.TTF');
         font-size: 42px;
 }
 
