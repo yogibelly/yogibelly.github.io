@@ -1,11 +1,11 @@
 ---
-title: Okra
+title: Split Desi Chickpeas
 subtitle: 
 layout: default
-modal-id: 3
+modal-id: 1
 date: 2016-01-08
-img: okra.jpg
-thumbnail: okra-thumbnail.jpg
+img: splitchickpeas.jpg
+thumbnail: splitchickpeas-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

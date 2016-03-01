@@ -1,11 +1,11 @@
 ---
-title: Turnips
+title: Edo
 subtitle: 
 layout: default
 modal-id: 6
 date: 2016-01-08
-img: turnip.jpg
-thumbnail: turnip-thumbnail.jpg
+img: eddo.jpg
+thumbnail: eddo-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

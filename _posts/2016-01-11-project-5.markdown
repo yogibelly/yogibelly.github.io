@@ -1,11 +1,11 @@
 ---
-title: Sweet Potato
+title: Broccoli
 subtitle: 
 layout: default
 modal-id: 4
 date: 2016-01-08
-img: sweetpotato.jpg
-thumbnail: sweetpotato-thumbnail.jpg
+img: broccoli.jpg
+thumbnail: broccoli-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

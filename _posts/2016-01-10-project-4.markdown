@@ -1,11 +1,11 @@
 ---
-title: Moong Dal
+title: Rapini
 subtitle: 
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2016-01-09
-img: moong.jpg
-thumbnail: moong-thumbnail.jpg
+img: rapini.jpg
+thumbnail: rapini-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
