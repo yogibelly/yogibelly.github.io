@@ -2,7 +2,7 @@
 title: Palak
 subtitle: 
 layout: default
-modal-id: 5
+modal-id: 6
 date: 2016-01-08
 img: palak.jpg
 thumbnail: palak-thumbnail.jpg
