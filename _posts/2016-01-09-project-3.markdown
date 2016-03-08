@@ -1,11 +1,11 @@
 ---
-title: Kaali Dal
+title: Eggplant
 subtitle: 
 layout: default
 modal-id: 2
 date: 2016-01-09
-img: blacklentils.jpg
-thumbnail: blacklentils-thumbnail.jpg
+img: eggplant.jpg
+thumbnail: eggplant-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

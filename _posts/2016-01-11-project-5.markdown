@@ -1,11 +1,11 @@
 ---
-title: Broccoli
+title: Pomegranate seeds
 subtitle: 
 layout: default
 modal-id: 5
 date: 2016-01-08
-img: broccoli.jpg
-thumbnail: broccoli-thumbnail.jpg
+img: pomegranate.jpg
+thumbnail: pomegranate-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

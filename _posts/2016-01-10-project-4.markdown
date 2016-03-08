@@ -1,11 +1,11 @@
 ---
-title: Rapini
+title: Tofu
 subtitle: 
 layout: default
 modal-id: 3
 date: 2016-01-09
-img: rapini.jpg
-thumbnail: rapini-thumbnail.jpg
+img: tofu.jpg
+thumbnail: tofu-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
