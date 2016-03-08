@@ -1,11 +1,11 @@
 ---
-title: Tofu
+title: Opo
 subtitle: 
 layout: default
 modal-id: 3
 date: 2016-01-09
-img: tofu.jpg
-thumbnail: tofu-thumbnail.jpg
+img: opo.png
+thumbnail: opo-thumbnail.png
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

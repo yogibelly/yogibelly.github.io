@@ -1,11 +1,11 @@
 ---
-title: Eggplant
+title: Tofu
 subtitle: 
 layout: default
 modal-id: 2
 date: 2016-01-09
-img: eggplant.jpg
-thumbnail: eggplant-thumbnail.jpg
+img: tofu.jpg
+thumbnail: tofu-thumbnail.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
