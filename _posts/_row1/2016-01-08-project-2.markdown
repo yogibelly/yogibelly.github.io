@@ -1,6 +1,6 @@
 ---
-title: ""
-subtitle: Sample Vegan Menu
+title: Sample Veget Menu
+subtitle: 
 layout: default
 modal-id: 1
 date: 2016-01-08
@@ -17,8 +17,6 @@ description:
           <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; Applications</a>
           <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; Settings</a>
       </div>-->
-      <h2 class="service-heading text-center text-muted">Menu for March 8th and 9th</h2>
-      <br><br>
       <h3 class="service-heading text-center text-white">Dry kala Chana masala <!--<abbr title="Vegan" class="vegetarianicon">Ⓥ</abbr>--> </h3>
                 <p class="text-white">Black chickpeas cooked with tomatoes, coriander, pomegranate seeds, black pepper and ginger</p>
 

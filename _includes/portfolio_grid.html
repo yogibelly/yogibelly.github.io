@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">This Week</h2>
-                <h1 class="section-heading text-muted">Meal for March 15th and 16th is Vegetarian</h1>
+                <h4 class="section-heading text-muted"><i class="fa fa-bullhorn">   </i>        Meal for March 15th and 16th is Vegetarian</h4>
                 <!--<h4 class="section-subheading">Meal for March 15th and 16th is Vegetarian</h4>-->
             </div>
         </div>
@@ -15,37 +15,105 @@
             <div class="col-lg-8 col-sm-offset-2 text-center">
                 <h4 class="section-heading text-muted">Add some of our favorite products from the Indian Grocery Store to your order, including:
                 </h4>
-                <h3 class="section-heading">Naan – pack of 5 for $7</h3>
-                <h3 class="section-heading">Ras Malai – four milk cakes for $6</h3>
-            </div>
-        </div>
-        
-        <br><br><br><br>
+                <h4 class="section-heading text-muted">Naan – pack of 5 for $7</h3>
+                    <h4 class="section-heading text-muted">Ras Malai – four milk cakes for $6</h3>
+                    </div>
+                </div>
+
+                <br><br><br><br>
 
 
-        <div class="row">
-            <div class="col-lg-8 col-sm-offset-2 text-center">
-                <h2 class="section-subheading text-muted">Curious about what kind of food you might be trying out? Here are some sample menus from the past</h2>
-            </div>
-        </div>
-        <br><br>
-        <div class="row">
-            {% for post in site.posts %}
-            <div class="col-md-6 col-sm-6 portfolio-item">
-                <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
-                            <i class="fa fa-plus fa-3x"></i>
+                <div class="row">
+                    <div class="col-lg-8 col-sm-offset-2 text-center">
+                        <h2 class="section-subheading text-muted">Curious about what kind of food you might be trying out? Here are some sample menus from the past</h2>
+                    </div>
+                </div>
+                <br><br>
+
+                <!--<div class="row">
+                    {% for post in site.posts %}
+                    <div class="col-md-6 col-sm-6 portfolio-item">
+                        <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>{{ post.title }}</h4>
+                            <p class="text-muted">{{ post.subtitle }}</p>
                         </div>
                     </div>
-                    <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
-                </a>
-                <div class="portfolio-caption">
-                    <h4>{{ post.title }}</h4>
-                    <p class="text-muted">{{ post.subtitle }}</p>
+                    {% endfor %}
+                </div>-->
+
+                <div class="row text-center">
+                    <div class="col-md-6 col-sm-6 portfolio-item">
+                        <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/ion-leaf.png" class="img-responsive img-centered" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <!--<h4>{{ post.title }}</h4>-->
+                            <p class="text-muted">Menu March 8th and 9th</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 portfolio-item">
+                        <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/ion-leaf.png" class="img-responsive img-centered" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <!--<h4>{{ post.title }}</h4>-->
+                            <p class="text-muted">Sample Vegetarian Menu</p>
+                        </div>
+                    </div>
                 </div>
+
+                <div class="row text-center">
+                    <div class="col-md-6 col-sm-6 portfolio-item">
+                        <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/fa-leaf.png" class="img-responsive img-centered" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <!--<h4>{{ post.title }}</h4>-->
+                            <p class="text-muted">Sample Vegan Menu</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-6 portfolio-item">
+                        <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="img/portfolio/fa-leaf.png" class="img-responsive img-centered" alt="">
+                        </a>
+                        <div class="portfolio-caption">
+                            <!--<h4>{{ post.title }}</h4>-->
+                            <p class="text-muted">Sample Vegan Menu</p>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
             </div>
-            {% endfor %}
-        </div>
-    </div>
-</section>
+        </section>
