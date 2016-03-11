@@ -1,11 +1,11 @@
 ---
-title: ""
+title: Sample Vegetarian Menu
 subtitle: 
 layout: default
 modal-id: 4
 date: 2016-01-08
 img: logo.jpg
-thumbnail: svm.png
+thumbnail: menu1.JPG
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
