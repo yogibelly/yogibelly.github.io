@@ -1,0 +1,14 @@
+---
+title: Lotus Root
+subtitle: 
+layout: default
+modal-id: 12
+date: 2016-01-08
+img: Lotus-root.jpg
+thumbnail: Lotus-root-thumbnail.jpg
+alt: image-alt
+project-date: January 2016
+client: Start Bootstrap
+category: Dishes
+description: 
+---

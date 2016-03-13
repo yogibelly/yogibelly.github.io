@@ -410,9 +410,12 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+.classWithPad { margin:10px; padding:10px; }
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    padding: 45px;
 }
 
 #portfolio .portfolio-item .portfolio-link {
