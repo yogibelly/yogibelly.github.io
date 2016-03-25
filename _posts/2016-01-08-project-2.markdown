@@ -20,7 +20,7 @@ description:
       <h2 class="service-heading text-center text-muted">Menu for March 22nd and 23rd</h2>
       <br><br>
       <h3 class="service-heading text-center text-white">Panch Ratan Daal<!--<abbr title="Vegan" class="vegetarianicon">Ⓥ</abbr>--> </h3>
-                <p class="text-white">The Five Jewels: 5 different lentils - toor, red masoor, yellow moong, black masoor and yellow split gram. Topped with tomato sautéed in garam masala.</p>
+                <p class="text-white">The Five Jewels - 5 different lentil - stoor, red masoor, yellow moong, black masoor and yellow split gram. Topped with tomato sautéed in garam masala.</p>
 
                 <br><br>
                 <h3 class="service-heading text-center text-white">Gobiki Sabzi</h3>
