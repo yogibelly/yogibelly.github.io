@@ -17,27 +17,26 @@ description:
           <a class="list-group-item" href="#"><i class="fa fa-pencil fa-fw"></i>&nbsp; Applications</a>
           <a class="list-group-item" href="#"><i class="fa fa-cog fa-fw"></i>&nbsp; Settings</a>
         </div>-->
-        <h2 class="service-heading text-center text-muted">Menu for March 29th and 30th</h2>
+        <h2 class="service-heading text-center text-muted">Menu for April 5th and 6th</h2>
         <br><br>
-        <h3 class="service-heading text-center text-white">Shahi Paneer<!--<abbr title="Vegan" class="vegetarianicon">Ⓥ</abbr>--> </h3>
-        <p class="text-white">Paneer is prepared in a delicately seasoned cream sauce wi
-          th tomatoes and 
-          cashew nuts </p>
+        <h4 class="service-heading text-center text-white"><i class="fa fa-cutlery"></i>     To enjoy each dish to their fullest, serve them individually in small bowls</h4>
+        <br><br>
+        <h3 class="service-heading text-center text-white">Kadu ki Subzi<!--<abbr title="Vegan" class="vegetarianicon">Ⓥ</abbr>--> </h3>
+        <p class="text-white">Butternut squash cooked with fresh ginger, tomatoes and coriander </p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Lobhia Masala</h3>
-          <p class="text-white">Black eyed beans cooked in homemade roasted ground spices
-            with mustard seeds and cumin</p>
+          <h3 class="service-heading text-center text-white">Chana Masala</h3>
+          <p class="text-white">Chickpeas are cooked in a mix of freshly ground spices and tomatoes. Top it off with the provided homemade tamarind sauce. If you are feeling adventurous, additional toppings include yogurt, fresh coriander, diced tomatoes and finely chopped onions! You can even add a warm samosa! </p>
 
             <br><br>
-            <h3 class="service-heading text-center text-white">Patta Gobi</h3>
-            <p class="text-white">Grated cabbage cooked with peas and carrots, cumin, mustard seeds and     spices </p>
+            <h3 class="service-heading text-center text-white">Bhindi Masala</h3>
+            <p class="text-white">Stir fried okra with garam masala, coriander, chili and onions</p>
 
             <br><br>
-            <h3 class="service-heading text-center text-white">Tej Patta Basmati Rice <!--&#9419;--></h3>
-            <p class="text-white">Naturally fragrant, long grain rice, with fresh bay leaves</p>
+            <h3 class="service-heading text-center text-white">Basmati Rice <!--&#9419;--></h3>
+            <p class="text-white">Naturally fragrant, long grain rice, cooked with with cinnamon, cloves, cardamom, and peppercorns</p>
 
             <br><br>
             <h3 class="service-heading text-center text-white">Saunf Mix</h3>
             <p class="text-white">A blend of plain and candied fennel seeds to be enjoyed after full meal for their digestive properties</p>
-            ---
+---
