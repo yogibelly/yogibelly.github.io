@@ -1,11 +1,11 @@
 ---
-title: Desi Chick Peas
+title: Gajar Mehthi
 subtitle: 
 layout: default
 modal-id: 11
 date: 2016-01-08
-img: besan.png
-thumbnail: besan-thumbnail.png
+img: cb8.jpg
+thumbnail: cb8.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

@@ -1,11 +1,11 @@
 ---
-title: Fenugreek
+title: Kaddu
 subtitle: 
 layout: default
 modal-id: 6
 date: 2016-01-08
-img: fenugreek.png
-thumbnail: fenugreek-thumbnail.png
+img: cb2.jpg
+thumbnail: cb2.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

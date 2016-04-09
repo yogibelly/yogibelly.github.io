@@ -1,11 +1,11 @@
 ---
-title: Opo
+title: Sweet Potato and Parsnip
 subtitle: 
 layout: default
 modal-id: 8
 date: 2016-01-08
-img: opo.png
-thumbnail: opo-thumbnail.png
+img: cb5.jpg
+thumbnail: cb5.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

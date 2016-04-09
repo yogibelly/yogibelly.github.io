@@ -1,11 +1,11 @@
 ---
-title: Kabocha
+title: Saag
 subtitle: 
 layout: default
 modal-id: 9
 date: 2016-01-08
-img: kabocha.jpg
-thumbnail: kabocha-thumbnail.jpg
+img: cb6.jpg
+thumbnail: cb6.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap

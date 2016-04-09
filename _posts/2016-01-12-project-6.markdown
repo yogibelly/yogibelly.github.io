@@ -1,11 +1,11 @@
 ---
-title: Paneer
+title: Bhindi Masala
 subtitle: 
 layout: default
 modal-id: 5
 date: 2016-01-08
-img: paneer.jpg
-thumbnail: paneer-thumbnail.jpg
+img: cb1.jpg
+thumbnail: cb1.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
