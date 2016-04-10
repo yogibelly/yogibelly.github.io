@@ -1,11 +1,11 @@
 ---
-title: Baingan Bharta
+title: How to enjoy your meal
 subtitle: 
 layout: default
 modal-id: 12
 date: 2016-01-08
-img: cb9.jpg
-thumbnail: cb9.jpg
+img: cb3.jpg
+thumbnail: cb3.jpg
 alt: image-alt
 project-date: January 2016
 client: Start Bootstrap
