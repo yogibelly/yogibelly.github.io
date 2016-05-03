@@ -1,6 +1,6 @@
 ---
 title: ""
-subtitle: Sample Vegan Menu
+subtitle: Current Menu
 layout: default
 modal-id: 1
 date: 2016-01-08
@@ -11,22 +11,20 @@ project-date: January 2016
 client: Start Bootstrap
 category: Dishes
 description:
-        <h2 class="service-heading text-center text-muted">Menu for April 12th and 13th</h2>
+        <h2 class="service-heading text-center text-muted">Menu for May 3rd and 4th</h2>
         <br><br>
         <!--<h4 class="service-heading text-center text-white"><i class="fa fa-cutlery"></i> To enjoy each dish to their fullest, serve them individually in small bowls</h4>
         <br><br>-->
-        <h3 class="service-heading text-center text-white">Bharwan Baingan</h3>
-        <p class="text-white">A recipe we only get to savour on special occasions, a true Family 
-          Favourite - whole baby eggplants, stuffed with ground peanuts, coconut, homemade spice mix and fennel seeds. A labour of love! </p>
+        <h3 class="service-heading text-center text-white">Hari Pili Matar Ki Daal</h3>
+        <p class="text-white">Green and yellow split peas cooked with ginger, tomatoes, cumin seeds and fresh spices </p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Shimla ki Mirch and Tofu</h3>
-          <p class="text-white">Red and yellow peppers sautéed with tofu, with a mix of fresh 
-            ginger, garam masala, coriander and tomatoes.</p>
+          <h3 class="service-heading text-center text-white">Baingan Bharta</h3>
+          <p class="text-white">Roasted aubergine with peas and spices</p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Kaali Masoor Daal</h3>
-          <p class="text-white">A special whole brown bean from India cooked with ginger, turmeric, asafoetida and garam masala. You may add a touch of butter for a richer taste.</p>
+          <h3 class="service-heading text-center text-white">Hari Shimla ki Mirch and Aloo</h3>
+          <p class="text-white">Green pepper sautéed with potatoes, ginger, chilli and dried fenugreek leaves</p>
 
             <br><br>
             <h3 class="service-heading text-center text-white">Basmati Rice</h3>
