@@ -11,26 +11,28 @@ project-date: January 2016
 client: Start Bootstrap
 category: Dishes
 description:
-        <h2 class="service-heading text-center text-muted">Menu for May 3rd and 4th</h2>
+        <h2 class="service-heading text-center text-muted">Menu for May 10th and 11th</h2>
         <br><br>
         <!--<h4 class="service-heading text-center text-white"><i class="fa fa-cutlery"></i> To enjoy each dish to their fullest, serve them individually in small bowls</h4>
         <br><br>-->
-        <h3 class="service-heading text-center text-white">Hari Pili Matar Ki Daal</h3>
-        <p class="text-white">Green and yellow split peas cooked with ginger, tomatoes, cumin seeds and fresh spices </p>
+        <h3 class="service-heading text-center text-white">Achari Gobi</h3>
+        <p class="text-white">Cauliflower cooked with turmeric and yogourt and seasoned with 
+        a homemade blend of five spices - fennel, cumin, black mustard seeds, nigella seeds and fenugreek seeds</p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Baingan Bharta</h3>
-          <p class="text-white">Roasted aubergine with peas and spices</p>
+          <h3 class="service-heading text-center text-white">Rajma Subzi</h3>
+          <p class="text-white">Small red kidney beans cooked in a tomato based gravy with 
+          garam masala, coriander and ginger</p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Hari Shimla ki Mirch and Aloo</h3>
-          <p class="text-white">Green pepper sautéed with potatoes, ginger, chilli and dried fenugreek leaves</p>
+          <h3 class="service-heading text-center text-white">Shahi Mushroom</h3>
+          <p class="text-white">This is a special dish served during festivities in India. Mushroom,  peas ans cashews are cooked in a flavourful cream based sauce with cinnamon, cardamom and chili powder</p>
 
             <br><br>
             <h3 class="service-heading text-center text-white">Basmati Rice</h3>
-            <p class="text-white">Naturally fragrant, long grain rice, cooked with with tumeric and black mustard seeds</p>
+            <p class="text-white">Naturally fragrant, long grain rice, prepared with fresh bay leaves</p> 
 
-            <br><br>
+            <!--<br><br>
             <h3 class="service-heading text-center text-white">Saunf Mix</h3>
-            <p class="text-white">A blend of plain and candied fennel seeds to be enjoyed after full meal for their digestive properties</p>
+            <p class="text-white">A blend of plain and candied fennel seeds to be enjoyed after full meal for their digestive properties</p>-->
 ---
