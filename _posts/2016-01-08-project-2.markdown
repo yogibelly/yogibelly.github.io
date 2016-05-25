@@ -11,26 +11,25 @@ project-date: January 2016
 client: Start Bootstrap
 category: Dishes
 description:
-        <h2 class="service-heading text-center text-muted">Menu for May 17th and 18th</h2>
+        <h2 class="service-heading text-center text-muted">Menu for May 24th and 25th</h2>
         <br><br>
         <!--<h4 class="service-heading text-center text-white"><i class="fa fa-cutlery"></i> To enjoy each dish to their fullest, serve them individually in small bowls</h4>
         <br><br>-->
-        <h3 class="service-heading text-center text-white">Lal Masoor and Moong Dal</h3>
-        <p class="text-white">A classic yellow and red lentil dal made with ginger, tumeric, 
-        tomatoes and fresh coriander</p>
+        <h3 class="service-heading text-center text-white">Shahi Paneer</h3>
+        <p class="text-white">One of our favourites! Paneer is prepared in a tomato based curry with cream, cashews and onions</p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Bhindi Masala</h3>
-          <p class="text-white">Stir fried fresh okra with garam masala, fennel seeds, coriander, chile and onions </p>
+          <h3 class="service-heading text-center text-white">Lobhia Masala</h3>
+          <p class="text-white">Black eyed beans are slowly cooked with a homemade masala spice mix which includes garam masala, cumin and ginger </p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Shakarakand and Shalgam Bharta</h3>
-          <p class="text-white">Sweet potatoes and turnips are mashed with a blend of fresh spices, 
-            fenugreek, tomatoes and fresh coriander</p>
+          <h3 class="service-heading text-center text-white">Patta Gobi</h3>
+          <p class="text-white">Grated cabbage is cooked with peas and carrots, curry 
+leaves, cumin, mustard seeds and spices </p>
 
             <br><br>
             <h3 class="service-heading text-center text-white">Turmeric Basmati Rice</h3>
-            <p class="text-white">Naturally fragrant, long grain rice, prepared with turmeric and black mustard seeds</p> 
+            <p class="text-white">Naturally fragrant, long grain rice, prepared with cinnamon sticks and caraway seeds</p> 
 
             <!--<br><br>
             <h3 class="service-heading text-center text-white">Saunf Mix</h3>
