@@ -24,8 +24,7 @@ description:
 
           <br><br>
           <h3 class="service-heading text-center text-white">Patta Gobi</h3>
-          <p class="text-white">Grated cabbage is cooked with peas and carrots, curry 
-leaves, cumin, mustard seeds and spices </p>
+          <p class="text-white">Grated cabbage is cooked with peas and carrots, curry leaves, cumin, mustard seeds and spices </p>
 
             <br><br>
             <h3 class="service-heading text-center text-white">Turmeric Basmati Rice</h3>
