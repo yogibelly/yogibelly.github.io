@@ -11,24 +11,24 @@ project-date: January 2016
 client: Start Bootstrap
 category: Dishes
 description:
-        <h2 class="service-heading text-center text-muted">Menu for May 24th and 25th</h2>
+        <h2 class="service-heading text-center text-muted">Menu for May 31 and June 1</h2>
         <br><br>
         <!--<h4 class="service-heading text-center text-white"><i class="fa fa-cutlery"></i> To enjoy each dish to their fullest, serve them individually in small bowls</h4>
         <br><br>-->
-        <h3 class="service-heading text-center text-white">Shahi Paneer</h3>
-        <p class="text-white">One of our favourites! Paneer is prepared in a tomato based curry with cream, cashews and onions</p>
+        <h3 class="service-heading text-center text-white">Panch Ratan Daal</h3>
+        <p class="text-white">Five Jewels Daal - toor daal, red masoor, yellow moong daal, black masoor and yellow split gram lentils. Each lentil is cooked separately until ready and then cooked with tomatoes sautéed in garam masala </p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Lobhia Masala</h3>
-          <p class="text-white">Black eyed beans are slowly cooked with a homemade masala spice mix which includes garam masala, cumin and ginger </p>
+          <h3 class="service-heading text-center text-white">Imli Aloo</h3>
+          <p class="text-white">Tamarind flavoured potatoes with mint, fenugreek and fennel seeds and red chilli powder</p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Patta Gobi</h3>
-          <p class="text-white">Grated cabbage is cooked with peas and carrots, curry leaves, cumin, mustard seeds and spices </p>
+          <h3 class="service-heading text-center text-white">Baigan and Mooli ki Subzi</h3>
+          <p class="text-white">Unique blend of Chinese eggplant and daikon (white radish) cooked with ginger paste, carom seeds, tomatoes, mango powder and homemade spice mix </p>
 
             <br><br>
             <h3 class="service-heading text-center text-white">Turmeric Basmati Rice</h3>
-            <p class="text-white">Naturally fragrant, long grain rice, prepared with cinnamon sticks and caraway seeds</p> 
+            <p class="text-white">Naturally fragrant, long grain rice, prepared with coriander seeds</p> 
 
             <!--<br><br>
             <h3 class="service-heading text-center text-white">Saunf Mix</h3>
