@@ -11,24 +11,24 @@ project-date: January 2016
 client: Start Bootstrap
 category: Dishes
 description:
-        <h2 class="service-heading text-center text-muted">Menu for May 31 and June 1</h2>
+        <h2 class="service-heading text-center text-muted">Menu for June 7 and 8</h2>
         <br><br>
         <!--<h4 class="service-heading text-center text-white"><i class="fa fa-cutlery"></i> To enjoy each dish to their fullest, serve them individually in small bowls</h4>
         <br><br>-->
-        <h3 class="service-heading text-center text-white">Panch Ratan Daal</h3>
-        <p class="text-white">Five Jewels Daal - toor daal, red masoor, yellow moong daal, black masoor and yellow split gram lentils. Each lentil is cooked separately until ready and then cooked with tomatoes sautéed in garam masala </p>
+        <h3 class="service-heading text-center text-white">Besan Khadi</h3>
+        <p class="text-white">Pakoras made of chickpea flour are prepared ina yogurt based sauce with turmeric, curryleaves and lemon to give its distinctive tartflavor.  A classic comfort food dish of the Indian cuisine</p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Imli Aloo</h3>
-          <p class="text-white">Tamarind flavoured potatoes with mint, fenugreek and fennel seeds and red chilli powder</p>
+          <h3 class="service-heading text-center text-white">Gajar Mehti Bhaji</h3>
+          <p class="text-white">Carrots with fresh fenugreek leaves</p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Baigan and Mooli ki Subzi</h3>
-          <p class="text-white">Unique blend of Chinese eggplant and daikon (white radish) cooked with ginger paste, carom seeds, tomatoes, mango powder and homemade spice mix </p>
+          <h3 class="service-heading text-center text-white">Shimla ki mirch aur Tofu</h3>
+          <p class="text-white">Orange and Green peppers sautéed with tofu, with a mix of ginger, coriander and chilli</p>
 
             <br><br>
             <h3 class="service-heading text-center text-white">Turmeric Basmati Rice</h3>
-            <p class="text-white">Naturally fragrant, long grain rice, prepared with coriander seeds</p> 
+            <p class="text-white">Naturally fragrant, long grain rice, prepared with fennel seeds</p> 
 
             <!--<br><br>
             <h3 class="service-heading text-center text-white">Saunf Mix</h3>
