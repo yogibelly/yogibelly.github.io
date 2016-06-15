@@ -11,26 +11,26 @@ project-date: January 2016
 client: Start Bootstrap
 category: Dishes
 description:
-        <h2 class="service-heading text-center text-muted">Menu for June 7 and 8</h2>
+        <h2 class="service-heading text-center text-muted">Menu for June 14 and 15</h2>
         <br><br>
         <!--<h4 class="service-heading text-center text-white"><i class="fa fa-cutlery"></i> To enjoy each dish to their fullest, serve them individually in small bowls</h4>
         <br><br>-->
-        <h3 class="service-heading text-center text-white">Besan Khadi</h3>
-        <p class="text-white">Pakoras made of chickpea flour are prepared ina yogurt based sauce with turmeric, curryleaves and lemon to give its distinctive tartflavor.  A classic comfort food dish of the Indian cuisine</p>
+        <h3 class="service-heading text-center text-white">Navratan Sabzi Kofta Curry</h3>
+        <p class="text-white">These vegetarian kebabs combine a mix of carrots, peas, green beans, corn and chickpea flour whichare slowly simmered in an fragrant gravy flavored with ghiya, peas, fresh ginger, paprika, turmeric,cinnamon and bay leaves</p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Gajar Mehti Bhaji</h3>
-          <p class="text-white">Carrots with fresh fenugreek leaves</p>
+          <h3 class="service-heading text-center text-white">Chana Masala</h3>
+          <p class="text-white">Chickpeas are cooked in a mix of freshly ground spicesand   tomatoes.   Top   it   of with   the   provided homemade   tamarind   sauce.   If   you   are   feelingadventurous,   additional   toppings   include   yogurt, fresh coriander, diced tomatoes and finely chopped onions. You can even add a warm samosa</p>
 
           <br><br>
-          <h3 class="service-heading text-center text-white">Shimla ki mirch aur Tofu</h3>
-          <p class="text-white">Orange and Green peppers sautéed with tofu, with a mix of ginger, coriander and chilli</p>
+          <h3 class="service-heading text-center text-white">Arbi ki Sabzi</h3>
+          <p class="text-white">Discover taro, a root vegetable which is roasted with a homemade garam masala, carom and dried mango powder spice rub that make them slightly addictive</p>
 
             <br><br>
             <h3 class="service-heading text-center text-white">Turmeric Basmati Rice</h3>
-            <p class="text-white">Naturally fragrant, long grain rice, prepared with fennel seeds</p> 
+            <p class="text-white">Naturally fragrant, long grain rice, prepared with turmeric and black mustard seeds</p> 
 
-            <!--<br><br>
+            <br><br>
             <h3 class="service-heading text-center text-white">Saunf Mix</h3>
-            <p class="text-white">A blend of plain and candied fennel seeds to be enjoyed after full meal for their digestive properties</p>-->
+            <p class="text-white">A blend of plain and candied fennel seeds to be enjoyed after full meal for their digestive properties</p>
 ---
