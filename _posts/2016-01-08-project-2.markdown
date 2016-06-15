@@ -20,7 +20,7 @@ description:
 
           <br><br>
           <h3 class="service-heading text-center text-white">Chana Masala</h3>
-          <p class="text-white">Chickpeas are cooked in a mix of freshly ground spicesand   tomatoes.   Top   it   of with   the   provided homemade   tamarind   sauce.   If   you   are   feelingadventurous,   additional   toppings   include   yogurt, fresh coriander, diced tomatoes and finely chopped onions. You can even add a warm samosa</p>
+          <p class="text-white">Chickpeas are cooked in a mix of freshly ground spicesand   tomatoes.   Top   it   of with   the   provided homemade   tamarind   sauce.   If   you   are   feeling adventurous,   additional   toppings   include   yogurt, fresh coriander, diced tomatoes and finely chopped onions. You can even add a warm samosa</p>
 
           <br><br>
           <h3 class="service-heading text-center text-white">Arbi ki Sabzi</h3>
