@@ -70,12 +70,12 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/yogi_belly
-  - title: facebook
-    url: http://facebook.com/yogibelly
-  - title: instagram
-    url: http://instagram.com/yogi_belly    
+#  - title: twitter
+#    url: http://twitter.com/yogi_belly
+#  - title: facebook
+#    url: http://facebook.com/yogibelly
+#  - title: instagram
+#    url: http://instagram.com/yogi_belly    
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/jekyll
 #  - title: bitbucket 
@@ -96,7 +96,7 @@ permalink: pretty
 footer:
   copyright: Yogi Belly
   location: Phone
-  social: Around the Web
+  #social: Around the Web
   credits: Email
 
   # Credits content
