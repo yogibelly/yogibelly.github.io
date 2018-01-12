@@ -7,15 +7,15 @@
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #{{ site.color.secondary-dark }};
+    color: #{{ site.data.template.color.secondary-dark }};
 }
 
 .text-muted {
-    color: #777;
+    #{{ site.data.template.color.muted }};
 }
 
 .text-primary {
-    color: #{{ site.color.primary }};
+    color: #{{ site.data.template.color.primary }};
 }
 
 p {
@@ -36,14 +36,14 @@ a.active {
 }
 
 a {
-    color: #{{ site.color.primary }};
+    color: #{{ site.data.template.color.primary }};
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.data.template.color.secondary }};
 }
 
 h1,
@@ -51,7 +51,7 @@ h2,
 h5,
 h6 {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
 }
 
@@ -79,12 +79,12 @@ h4 {
 }
 
 .btn-primary {
-    border-color: #{{ site.color.primary }};
+    border-color: #{{ site.data.template.color.primary }};
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.data.template.color.primary }};
     
 }
 
@@ -93,9 +93,9 @@ h4 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #{{ site.color.primary }};
+    border-color:  #{{ site.data.template.color.primary }};
     color: #fff;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.data.template.color.secondary }};
 }
 
 .btn-primary:active,
@@ -119,25 +119,25 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #{{ site.color.primary }};
-    background-color: #{{ site.color.primary }};
+    border-color: #{{ site.data.template.color.primary }};
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .btn-primary .badge {
-    color: #{{ site.color.primary }};
+    color: #{{ site.data.template.color.primary }};
     background-color: #fff;
 }
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #{{ site.color.primary }};
+    border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #000;
 }
 
 .btn-xl:hover,
@@ -145,9 +145,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #{{ site.color.primary }};
+    border-color: #{{ site.data.template.color.primary }};
     color: #fff;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.data.template.color.secondary }};
 }
 
 .btn-xl:active,
@@ -171,12 +171,12 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #{{ site.color.primary }};
-    background-color: #{{ site.color.primary }};
+    border-color: #{{ site.data.template.color.primary }};
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .btn-xl .badge {
-    color: #{{ site.color.primary }};
+    color: #{{ site.data.template.color.primary }};
     background-color: #fff;
 }
 
@@ -194,7 +194,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.data.template.color.secondary }};
 }
 
 .navbar-default .navbar-collapse {
@@ -202,8 +202,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #{{ site.color.primary }};
-    background-color: #{{ site.color.primary }};
+    border-color: #{{ site.data.template.color.primary }};
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -212,12 +212,12 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .nav li a {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
     color: #fff;
@@ -226,19 +226,19 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #{{ site.color.secondary }};
+    background-color: #{{ site.data.template.color.secondary }};
 }
 
 @media(min-width:768px) {
@@ -276,7 +276,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(img/header-bg.jpg);
+    background-image: url(img/new_logo_2018.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -323,7 +323,7 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     font-size: 40px;
     font-weight: 700;
     line-height: 40px;
@@ -373,7 +373,7 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-family: {{ site.data.template.font.primary }};
         font-size: 55px;
         font-weight: 700;
         line-height: 55px;
@@ -744,34 +744,34 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-    border-color: #{{ site.color.primary }};
+    border-color: #{{ site.data.template.color.primary }};
     box-shadow: none;
 }
 
 section#contact::-webkit-input-placeholder {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact:-moz-placeholder {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact::-moz-placeholder {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
 
 section#contact:-ms-input-placeholder {
     text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #bbb;
 }
@@ -788,7 +788,7 @@ footer {
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
 }
 
@@ -796,7 +796,7 @@ footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
     text-transform: none;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
 }
 
@@ -822,7 +822,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.data.template.color.primary }};
 }
 
 .btn:focus,
@@ -905,12 +905,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #{{ site.color.primary }};
+    background: #{{ site.data.template.color.primary }};
 }
 
 ::selection {
     text-shadow: none;
-    background: #{{ site.color.primary }};
+    background: #{{ site.data.template.color.primary }};
 }
 
 img::selection {
@@ -922,7 +922,7 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: #{{ site.color.primary }};
+    webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
 
